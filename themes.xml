@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Hotspot" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#1E2D8A</item>
+        <item name="colorSecondary">#D9823F</item>
+        <item name="android:statusBarColor">#141E63</item>
+    </style>
+</resources>
